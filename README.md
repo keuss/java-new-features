@@ -24,8 +24,7 @@
  - 25 September 2018
  - Java 11 is the second LTS release after Java 8. Since Java 11, Oracle JDK would no longer be free for commercial use !
 
-## 10
+## [10](https://github.com/keuss/java-new-features/blob/master/src/test/java/org/keuss/java10/Features10Test.java)
 
  - https://jdk.java.net/10/ - https://openjdk.java.net/projects/jdk/10/
  - 20 March 2018
- - https://github.com/keuss/java-new-features/blob/master/src/test/java/org/keuss/java10/Features10Test.java
