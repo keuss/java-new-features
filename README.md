@@ -3,6 +3,8 @@
  - New release every 6 months
  - LTS 3 years (6 releases) : 8, 11 LTS, 17 LTS, ...
 
+Update pom.xml for java compiler version if needed !
+
 ## 14 (test WIP)
 
  - https://jdk.java.net/14/ - https://openjdk.java.net/projects/jdk/14/
@@ -13,7 +15,7 @@
  - https://jdk.java.net/13/ - https://openjdk.java.net/projects/jdk/13/
  - 17 September 2019
  
-## 12 (test WIP)
+## [12](https://github.com/keuss/java-new-features/blob/master/src/test/java/org/keuss/java12/Features12Test.java)
 
  - https://jdk.java.net/12/ - https://openjdk.java.net/projects/jdk/12/
  - 19 March 2019
